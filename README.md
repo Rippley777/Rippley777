@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Rippley777, aka Ally Rippley
-- 👀 I’m interested in programming, music, reading, biking, learning new things
-- 🌱 I’m currently learning WebRTC, violin, and the French language
-- 💞️ I’m looking to collaborate on various projects, especially game oriented projects
+- 👾 Javascript programmer using React / React Native on the front-end, Node.js / Express on the backend
+- 🎮 Games using C# / Lua / Unity and Unreal Engine
+- 🌱 Passionate about music, biking, nature, solar, and learning foreign languages
+- 💞️ Looking to collaborate on various projects, especially gaming oriented
+- 🛖 Volunteer for organizations that help strengthen surrounding communities
 - 📫 Reach me by email @ ally.rippley@gmail.com
 
 <!---
