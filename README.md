@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rippley777, aka Ally Rippley
+- 👋 Hi, I’m @Rippley777, aka Ally Rippley also found at https://github.com/allyrippley
 - 👾 Javascript programmer using React / React Native on the front-end, Node.js / Express on the backend
 - 🎮 Games using C# / Lua / Unity and Unreal Engine
 - 🌱 Passionate about music, biking, nature, solar, and learning foreign languages
