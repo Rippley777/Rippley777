@@ -64,3 +64,17 @@ alias installPython='sudo apt install -y python3 python3-pip virtualenv'
 alias bootstrapPythonVenv='sudo apt install python3 python3-venv python3-pip'
 alias createPythonVenv='python3 -m venv $1'
 alias usePythonVenv='source $1/bin/activate'
+
+
+alias startssh='systemctl start ssh'
+alias checkssh='systemctl status ssh'
+alias enablessh='systemctl enable ssh'
+alias startupCheck='ps -aux | grep $1'
+alias listServices='systemctl list-units --type=service'
+
+alias killsignals='kill -l'
+alias fa='cat ~/.zshrc.aliases | grep $1'
+alias installOpenSsh='sudo apt install openssh-server -y'
+alias installNfs='sudo apt install nfs-kernel-server -y'
+alias installApache='sudo apt install apache2 -y'
+alias installRsync='sudo apt install rsync -y'
